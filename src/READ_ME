@@ -1,0 +1,8 @@
+READ ME
+
+This is a basic client/server app I did in Java while learning some socket programming.
+
+The client asks the user to choose some basic mathematical operations, sends the choices to the server which does the arithmetic,
+and then sends it back to the client for display.
+
+Super basic.
